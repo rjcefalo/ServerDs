@@ -1,5 +1,5 @@
 const EP = {
-  process: ['ext', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan'],
+  process: ['ext', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan', 'Main', 'Motor Loan'],
   script: ['scrpit'],
   scorecard: ['Model100'],
   tree: ['Terms and Conditions'],
